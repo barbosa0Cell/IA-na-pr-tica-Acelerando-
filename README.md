@@ -1,1 +1,1 @@
-# https://github.com/barbosa0Cell/IA-na-pr-tica-Acelerar/actions/workflows/main.yml/badge.svg)
+# https://github.com/barbosa0Cell/IA-na-pr-tica-Acelerando-/tree/main?tab=readme-ov-file
