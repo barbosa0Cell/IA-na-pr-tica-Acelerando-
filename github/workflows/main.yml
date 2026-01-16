@@ -1,0 +1,11 @@
+[span_3](start_span)name: CI[span_3](end_span)
+[span_4](start_span)on: [push][span_4](end_span)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install
+        [span_5](start_span)run: npm install[span_5](end_span)
+      - name: Test
+        [span_6](start_span)run: npm test[span_6](end_span)
